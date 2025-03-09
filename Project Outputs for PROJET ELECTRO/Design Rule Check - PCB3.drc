@@ -1,0 +1,73 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Nouveau dossier\PROJET ELECTRO\PCB3.PcbDoc
+Date     : 20/02/2024
+Time     : 04:38:17
+
+Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
+   Violation between Clearance Constraint: (6.743mil < 7.874mil) Between Pad USB-(1621.223mil,261.375mil) on Multi-Layer And Pad USB-1(1609.019mil,303.505mil) on Top Copper 
+   Violation between Clearance Constraint: (6.743mil < 7.874mil) Between Pad USB-(1848.783mil,261.375mil) on Multi-Layer And Pad USB-12(1860.987mil,303.505mil) on Top Copper 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.728mil < 3.937mil) Between Pad USB-(1621.223mil,261.375mil) on Multi-Layer And Pad USB-1(1609.019mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [0.728mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.834mil < 3.937mil) Between Pad USB-(1621.223mil,261.375mil) on Multi-Layer And Pad USB-2(1640.515mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [1.834mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.834mil < 3.937mil) Between Pad USB-(1848.783mil,261.375mil) on Multi-Layer And Pad USB-11(1829.491mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [1.834mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.728mil < 3.937mil) Between Pad USB-(1848.783mil,261.375mil) on Multi-Layer And Pad USB-12(1860.987mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [0.728mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.936mil (0.1mm) < 3.937mil (0.1mm)) Between Pad USB-10(1803.9mil,303.505mil) on Top Copper And Pad USB-9(1784.215mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [3.936mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.936mil (0.1mm) < 3.937mil (0.1mm)) Between Pad USB-3(1666.105mil,303.505mil) on Top Copper And Pad USB-4(1685.79mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [3.936mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.936mil (0.1mm) < 3.937mil (0.1mm)) Between Pad USB-4(1685.79mil,303.505mil) on Top Copper And Pad USB-5(1705.475mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [3.936mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.936mil (0.1mm) < 3.937mil (0.1mm)) Between Pad USB-5(1705.475mil,303.505mil) on Top Copper And Pad USB-6(1725.16mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [3.936mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.936mil (0.1mm) < 3.937mil (0.1mm)) Between Pad USB-6(1725.16mil,303.505mil) on Top Copper And Pad USB-7(1744.845mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [3.936mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.936mil (0.1mm) < 3.937mil (0.1mm)) Between Pad USB-7(1744.845mil,303.505mil) on Top Copper And Pad USB-8(1764.53mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [3.936mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.936mil (0.1mm) < 3.937mil (0.1mm)) Between Pad USB-8(1764.53mil,303.505mil) on Top Copper And Pad USB-9(1784.215mil,303.505mil) on Top Copper [Top Mask] Mask Sliver [3.936mil]
+Rule Violations :11
+
+Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 13
+Waived Violations : 0
+Time Elapsed        : 00:00:02

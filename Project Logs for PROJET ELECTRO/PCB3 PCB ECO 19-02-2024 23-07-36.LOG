@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=ESP NewDesignator=U1
+Change Component Designator: OldDesignator=LED NewDesignator=LED1
+Change Component Designator: OldDesignator=ON/OFF NewDesignator=SW3
+Change Component Designator: OldDesignator=REDEMARRAGE NewDesignator=SW4
+Change Component Designator: OldDesignator=REG NewDesignator=U5
+Change Component Designator: OldDesignator=VOL+ NewDesignator=SW2
+Change Component Designator: OldDesignator=VOL- NewDesignator=SW1
+Add Pin To Net: Unknown Pin: Pin test1-1
+Add Pin To Net: Unknown Pin: Pin test2-0
+Add Pin To Net: Unknown Pin: Pin test2-1
+Add Pin To Net: Unknown Pin: Pin test3-0
+Add Pin To Net: Unknown Pin: Pin test3-1
+Add Pin To Net: Unknown Pin: Pin test4-0
+Add Pin To Net: Unknown Pin: Pin test4-1
+Add Pin To Net: Unknown Pin: Pin test5-0
+Add Pin To Net: Unknown Pin: Pin test5-1
+Add Class Member: Failed to add class member : Component test1 point de test
+Add Class Member: Failed to add class member : Component test2 point de test
+Add Class Member: Failed to add class member : Component test3 point de test
+Add Class Member: Failed to add class member : Component test4 point de test
+Add Class Member: Failed to add class member : Component test5 point de test

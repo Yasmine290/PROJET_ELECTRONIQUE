@@ -1,0 +1,15 @@
+Added Component: Designator=test3(point de test)
+Add Pin To Net: Unknown Pin: Pin test1-1
+Add Pin To Net: Unknown Pin: Pin test2-0
+Add Pin To Net: Unknown Pin: Pin test2-1
+Added Pin To Net: NetName=GND Pin=test3-0
+Added Pin To Net: NetName=NetMAX1_16 Pin=test3-1
+Add Pin To Net: Unknown Pin: Pin test4-0
+Add Pin To Net: Unknown Pin: Pin test4-1
+Add Pin To Net: Unknown Pin: Pin test5-0
+Add Pin To Net: Unknown Pin: Pin test5-1
+Add Class Member: Failed to add class member : Component test1 point de test
+Add Class Member: Failed to add class member : Component test2 point de test
+Added Member To Class: ClassName=Sheet2 Member=Component test3 point de test
+Add Class Member: Failed to add class member : Component test4 point de test
+Add Class Member: Failed to add class member : Component test5 point de test
