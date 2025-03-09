@@ -1,1 +1,6 @@
-https://uqacca0.sharepoint.com/:w:/s/TM-6GEI415-Mthodesdeconceptionenlectronique/EWT5SMaIi6JBtenJYpkVfTkBPTSB4dyJDtjcSPKYNQ7Jxw?e=LVfqkD 
+# Projet de conception en Électronique  
+
+Ce projet fait partie d'un travail en électronique visant à concevoir un amplificateur audio Bluetooth.  
+
+## 📄 Rapport du projet  
+Le rapport détaillé du projet est disponible dans les fichiers du dépôt, sur la branche `main`.
